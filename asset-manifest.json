@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/facerecognitionapp/static/css/main.2ce2c542.chunk.css",
-    "main.js": "/facerecognitionapp/static/js/main.2bfa7296.chunk.js",
-    "main.js.map": "/facerecognitionapp/static/js/main.2bfa7296.chunk.js.map",
+    "main.js": "/facerecognitionapp/static/js/main.a7fe2d58.chunk.js",
+    "main.js.map": "/facerecognitionapp/static/js/main.a7fe2d58.chunk.js.map",
     "runtime-main.js": "/facerecognitionapp/static/js/runtime-main.6ebff6cf.js",
     "runtime-main.js.map": "/facerecognitionapp/static/js/runtime-main.6ebff6cf.js.map",
     "static/css/2.eb45ad44.chunk.css": "/facerecognitionapp/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.eebf24f8.chunk.js": "/facerecognitionapp/static/js/2.eebf24f8.chunk.js",
-    "static/js/2.eebf24f8.chunk.js.map": "/facerecognitionapp/static/js/2.eebf24f8.chunk.js.map",
+    "static/js/2.eabac049.chunk.js": "/facerecognitionapp/static/js/2.eabac049.chunk.js",
+    "static/js/2.eabac049.chunk.js.map": "/facerecognitionapp/static/js/2.eabac049.chunk.js.map",
     "index.html": "/facerecognitionapp/index.html",
-    "precache-manifest.b058a8d96f0d5ac7252ba677b1219239.js": "/facerecognitionapp/precache-manifest.b058a8d96f0d5ac7252ba677b1219239.js",
+    "precache-manifest.82953fe2660e0b5272dc4c21d1070a5e.js": "/facerecognitionapp/precache-manifest.82953fe2660e0b5272dc4c21d1070a5e.js",
     "service-worker.js": "/facerecognitionapp/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/facerecognitionapp/static/css/2.eb45ad44.chunk.css.map",
     "static/css/main.2ce2c542.chunk.css.map": "/facerecognitionapp/static/css/main.2ce2c542.chunk.css.map",
-    "static/js/2.eebf24f8.chunk.js.LICENSE": "/facerecognitionapp/static/js/2.eebf24f8.chunk.js.LICENSE"
+    "static/js/2.eabac049.chunk.js.LICENSE": "/facerecognitionapp/static/js/2.eabac049.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.6ebff6cf.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.eebf24f8.chunk.js",
+    "static/js/2.eabac049.chunk.js",
     "static/css/main.2ce2c542.chunk.css",
-    "static/js/main.2bfa7296.chunk.js"
+    "static/js/main.a7fe2d58.chunk.js"
   ]
 }
